@@ -1,2 +1,2 @@
 # twischat
-Chat Server created using twisted.
+Small Chat application created using twisted.
